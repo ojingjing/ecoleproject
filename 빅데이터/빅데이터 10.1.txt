@@ -1,0 +1,16 @@
+<빅데이터>
+google scholar 논문 찾는곳
+-Text mining
+1.Word Cloud  -단어의 빈도
+2.Topic analysis -어떤 주제가 핫한지 ,LDA
+3.Sentiment analysis	 
+4. social network analysis  -관계성
+5. ontology(knowledge graph)  -데이터모델링중 하나,관계에대해서 자세히 설명해줌 
+
+메세지가 뭘까~~~
+
+
+taehyeong.kim@snu.ac.kr 김태형 서울대 빅데이터 혁신공유대학 객원교수
+
+
+
