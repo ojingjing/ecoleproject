@@ -49,10 +49,23 @@ delete box라서 x표시가 있었는데 skeleton 을 적용하니 css가 바뀌
  ___
 
 ### 3.Skeleton
->[Change Button](https://getbootstrap.com/docs/5.2/components/buttons/#button-plugin)
+>[Messgebox](http://getskeleton.com/)
 
 ```
-      <button type="button" class="btn btn-secondary">#html</button> 
+        
+    <article class="message is-info">
+
+        <div class="message-body">
+            <label for="exampleMessage">Message</label>
+            <textarea class="u-full-width" placeholder="Hi Dave …" id="exampleMessage"></textarea>
+            <label class="example-send-yourself-copy">
+              <input type="checkbox">
+              <span class="label-body">Send a copy to yourself</span>
+            </label>
+            <input class="button-primary" type="submit" value="Submit">
+        </div>
+      </article>
 ```
-![image](https://user-images.githubusercontent.com/48702158/198940260-6f8a7ec3-e5a2-4347-afef-c28f2e50dd65.png)
+![image](https://user-images.githubusercontent.com/48702158/198941558-dc24d9be-877a-4e96-9720-e868160630c2.png)
  ___
+### webHosting
